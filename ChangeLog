@@ -1,0 +1,54 @@
+2000-08-27   Darren Duncan <perl@DarrenDuncan.net>
+
+	* Release 1.0.
+
+	* This release contains my "CGI::EventCountFile 1.01" module which was
+previously a part of my "libdwg" distribution, but I have set it off on its own
+for those of you who only want to use this and not the other modules.
+
+	* This module contains complete POD within it.
+	
+	* This module requires Perl version 5.004.
+	
+	* There was a minor POD correction, but no version increase was made.
+	
+2000-08-23   Darren Duncan <perl@DarrenDuncan.net>
+
+	* libdwg 1.11, the last version of the distribution to include
+CGI::EventCountFile 1.01, was released.
+	
+2000-08-11   Darren Duncan <perl@DarrenDuncan.net>
+
+	* CGI::EventCountFile updated to version 1.01 from 1.0 because a new method,
+delete_all_keys(), was added.  Minor change to "synopsis" POD as well.
+
+2000-07-23   Darren Duncan <perl@DarrenDuncan.net>
+
+	* libdwg 1.0, the first version of any distribution to include
+CGI::EventCountFile 1.0, was released on CPAN.
+	
+2000-07-21   Darren Duncan <perl@DarrenDuncan.net>
+
+	* Completed primary development on this module's POD.
+
+2000-04-20   Darren Duncan <perl@DarrenDuncan.net>
+
+	* Completed primary development on this module's code, but the POD is mostly
+non-existant.
+
+2000-04-19   Darren Duncan <perl@DarrenDuncan.net>
+
+	* Began development on the final version of this module.  It was an almost
+complete rewrite.
+	
+	* Module based on a template created by h2xs 1.18.
+
+1999-07-29 thru 1999-11-13
+
+	* Worked on second prototype of code that ended up in this module.  Mostly
+just a code copy into a new template.
+
+1999-03 thru 1999-05
+
+	* Created first prototype of this module and used it to track usage on my web
+sites for a year.  Many features of final version 1.0 were present.
